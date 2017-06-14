@@ -25,7 +25,14 @@
 \RequirePackage{hhline}
 \RequirePackage{hyperref}
 % \hypersetup{colorlinks=false, linkcolor=blue, citecolor=blue, filecolor=blue, urlcolor=blue}
+
 \RequirePackage{graphicx}
+\RequirePackage[figurename=Иллюстрация]{caption}
+\renewcommand{\thefigure}{\arabic{figure}}
+
+
+\RequirePackage{caption}
+\renewcommand{\thecaptionof}{table}{\arabic{table}}
 
 \makeatletter
 \newcommand\arraybslash{\let\\\@arraycr} % ???

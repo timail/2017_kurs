@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  14 JUN 2017 12:00
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  14 JUN 2017 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,22 +645,42 @@ tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
 \Hy@SectionHShift=\skip57
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen168
+\captionmargin@=\dimen169
+\captionwidth=\dimen170
+\caption@tempdima=\dimen171
+\caption@indent=\dimen172
+\caption@parindent=\dimen173
+\caption@hangindent=\dimen174
+)
+Package caption Info: We need package `newfloat' on input line 292.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/newfloat.sty
+Package: newfloat 2015/09/17 v1.1-109 Defining new floating environments (AR)
+)
+\c@ContinuedFloat=\count149
+Package caption Info: hyperref package is loaded.
+Package caption Info: supertabular package is loaded.
 ) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count149
-\Gm@cntv=\count150
-\c@Gm@tempcnt=\count151
-\Gm@bindingoffset=\dimen168
-\Gm@wd@mp=\dimen169
-\Gm@odd@mp=\dimen170
-\Gm@even@mp=\dimen171
-\Gm@layoutwidth=\dimen172
-\Gm@layoutheight=\dimen173
-\Gm@layouthoffset=\dimen174
-\Gm@layoutvoffset=\dimen175
+\Gm@cnth=\count150
+\Gm@cntv=\count151
+\c@Gm@tempcnt=\count152
+\Gm@bindingoffset=\dimen175
+\Gm@wd@mp=\dimen176
+\Gm@odd@mp=\dimen177
+\Gm@even@mp=\dimen178
+\Gm@layoutwidth=\dimen179
+\Gm@layoutheight=\dimen180
+\Gm@layouthoffset=\dimen181
+\Gm@layoutvoffset=\dimen182
 \Gm@dimlist=\toks25
 ) (/home/tim/code/tex/irm/tex_project/list_styles.tex
-\c@saveenum=\count152
+\c@saveenum=\count153
 ))
 ! Emergency stop.
 <*> /home/tim/code/tex/irm/tex_project/kursa4.cls
@@ -669,10 +689,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 
  
 Here is how much of TeX's memory you used:
- 22148 strings out of 493638
- 392863 string characters out of 6146796
- 412626 words of memory out of 5000000
- 25414 multiletter control sequences out of 15000+600000
+ 23268 strings out of 493638
+ 413431 string characters out of 6146796
+ 436722 words of memory out of 5000000
+ 26525 multiletter control sequences out of 15000+600000
  4394 words of font info for 28 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  55i,0n,61p,10410b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
