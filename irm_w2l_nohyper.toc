@@ -1,0 +1,8 @@
+\select@language {russian}
+\contentsline {chapter}{\numberline {1}Введение}{2}{chapter.1}
+\contentsline {chapter}{\numberline {1}Глава 1. Особенности стенограммы и синтаксические способы их имитации в художественном тексте.}{6}{chapter.1}
+\contentsline {section}{\numberline {1.1}Характеристика стенограммы. Фиксация речи, описание обстановки, точка зрения пишущего.}{6}{section.1.1}
+\contentsline {section}{\numberline {1.2}Категория «образ автора» и способы имитации безоценочности.}{8}{section.1.2}
+\contentsline {section}{\numberline {1.3}Размер предложения. Факторы, влияющие на размер предложения.}{17}{section.1.3}
+\contentsline {chapter}{\numberline {2}Практическая часть}{28}{chapter.2}
+\contentsline {section}{\numberline {2.1}Эгоцентрические элементы}{28}{section.2.1}
