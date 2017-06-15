@@ -31,8 +31,8 @@
 \renewcommand{\thefigure}{\arabic{figure}}
 
 
-\RequirePackage{caption}
-\renewcommand{\thecaptionof}{table}{\arabic{table}}
+% \RequirePackage{caption}
+% \renewcommand{\thecaptionof}{table}{\arabic{table}}
 
 \makeatletter
 \newcommand\arraybslash{\let\\\@arraycr} % ???

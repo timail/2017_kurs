@@ -15,5 +15,6 @@
 \contentsline {section}{\numberline {2.3}Ввод персонажей, указание на время}{50}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Ввод персонажей}{50}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Время событий. Условность жанра}{53}{subsection.2.3.2}
-\contentsline {chapter}{\numberline {3}Приложение}{55}{chapter.3}
-\contentsline {section}{\numberline {3.1}Примеры стенограмм}{55}{section.3.1}
+\contentsline {chapter}{\numberline {3}Заключение}{55}{chapter.3}
+\contentsline {chapter}{\numberline {4}Приложение}{58}{chapter.4}
+\contentsline {section}{\numberline {4.1}Примеры стенограмм}{58}{section.4.1}
