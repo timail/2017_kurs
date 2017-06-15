@@ -82,3 +82,22 @@
 \makeatletter
 \renewcommand\thefootnote{\arabic{footnote}}
 \makeatother
+
+
+\newcommand{\chapteroid}[1]{\chapter*{#1} \addcontentsline{toc}{chapter}{#1}}
+
+
+\makeatletter
+\renewcommand\tableofcontents{%
+    \section*{\centering\contentsname
+        \@mkboth{%
+           \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}
+    \@starttoc{toc}%
+}
+\makeatother
+
+\RequirePackage{titlesec}
+
+\titleformat{\chapter}[display]{\centering\normalfont\large\bfseries}{\chaptertitlename\ \thechapter.}{0.5em}{\large}
+
+\titleformat{\section}[block]{\normalfont\bfseries}{\thesection}{0.5em}{}
