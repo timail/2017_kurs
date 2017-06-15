@@ -11,10 +11,11 @@
 \contentsline {subsection}{\numberline {2.2.2}Осложнение простого предложения}{41}{subsection.2.2.2}
 \contentsline {subsubsection}{Синтагматически связанные средства осложнения предложения}{41}{section*.6}
 \contentsline {subsubsection}{Синтагматически не связанные средства осложнения предложения}{42}{section*.7}
-\contentsline {subsection}{\numberline {2.2.3}Парцеллированные конструкции и псевдопарцелляция}{43}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}Ввод персонажей, указание на время}{50}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Ввод персонажей}{50}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Время событий. Условность жанра}{53}{subsection.2.3.2}
-\contentsline {chapter}{\numberline {3}Заключение}{55}{chapter.3}
-\contentsline {chapter}{\numberline {4}Приложение}{58}{chapter.4}
-\contentsline {section}{\numberline {4.1}Примеры стенограмм}{58}{section.4.1}
+\contentsline {subsection}{\numberline {2.2.3}Сравнительные конструкции}{43}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Парцеллированные конструкции и псевдопарцелляция}{44}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Ввод персонажей, указание на время}{52}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Ввод персонажей}{52}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Время событий. Условность жанра}{55}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}Заключение}{56}{chapter.3}
+\contentsline {chapter}{\numberline {4}Приложение}{59}{chapter.4}
+\contentsline {section}{\numberline {4.1}Примеры стенограмм}{59}{section.4.1}
