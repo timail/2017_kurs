@@ -34,6 +34,7 @@
 % \RequirePackage{caption}
 % \renewcommand{\thecaptionof}{table}{\arabic{table}}
 
+
 \makeatletter
 \newcommand\arraybslash{\let\\\@arraycr} % ???
 \makeatother
@@ -96,13 +97,16 @@
 }
 \makeatother
 
+
+%%% title format
+
 \RequirePackage{titlesec}
 
-\titleformat{\chapter}[display]{\centering\normalfont\large\bfseries}{\chaptertitlename\ \thechapter.}{0.5em}{\large}
+\titleformat{\chapter}[block]{\centering\normalfont\large\bfseries}{\chaptertitlename\ \thechapter.}{0.3cm}{}
 
-\titleformat{\section}[block]{\centering\normalfont\bfseries}{\thesection}{0.5em}{}
+\titleformat{\section}[block]{\centering\normalfont\bfseries}{\thesection.}{0.5em}{}
 
-\titleformat{\subsection}[block]{\centering\normalfont\bfseries}{\thesubsection}{0.5em}{}
+\titleformat{\subsection}[block]{\centering\normalfont\bfseries}{\thesubsection.}{0.5em}{}
 
 
 %%% titlepage
@@ -141,9 +145,9 @@
 
     \hfill Научный руководитель:
 
-    \hfill кандидат филологических наук
+    \hfill кандидат филологических наук, доцент
 
-    \hfill доцент Светала Вадимовна Вяткина
+    \hfill Светлана Вадимовна Вяткина
 
     \vfill
 

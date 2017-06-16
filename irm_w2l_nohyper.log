@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  16 JUN 2017 13:24
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  16 JUN 2017 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -942,13 +942,13 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 210.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 235.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 235.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 235.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 234.
+(babel)             in language  on input line 235.
 [8]
 Overfull \hbox (12.27917pt too wide) in paragraph at lines 260--272
 \EU1/TimesNewRoman(0)/m/n/14.4 лиза художественного текста. Моделируя признаки 
@@ -993,13 +993,13 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 359.
 [11]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 395.
+(babel)             in language  on input line 396.
 [12]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 436.
@@ -1229,24 +1229,24 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 925.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 955.
+(babel)             in language  on input line 956.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 955.
+(babel)             in language  on input line 956.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 955.
+(babel)             in language  on input line 956.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 955.
+(babel)             in language  on input line 956.
 [29
 
 ]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1003.
+(babel)             in language  on input line 1007.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1003.
+(babel)             in language  on input line 1007.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 1003.
+(babel)             in language  on input line 1007.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 1003.
+(babel)             in language  on input line 1007.
 [30]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1053.
@@ -1959,7 +1959,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2115.
 Here is how much of TeX's memory you used:
  23852 strings out of 493638
  423188 string characters out of 6146796
- 460578 words of memory out of 5000000
+ 460583 words of memory out of 5000000
  27039 multiletter control sequences out of 15000+600000
  7428 words of font info for 52 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
