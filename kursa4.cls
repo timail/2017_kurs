@@ -100,4 +100,58 @@
 
 \titleformat{\chapter}[display]{\centering\normalfont\large\bfseries}{\chaptertitlename\ \thechapter.}{0.5em}{\large}
 
-\titleformat{\section}[block]{\normalfont\bfseries}{\thesection}{0.5em}{}
+\titleformat{\section}[block]{\centering\normalfont\bfseries}{\thesection}{0.5em}{}
+
+\titleformat{\subsection}[block]{\centering\normalfont\bfseries}{\thesubsection}{0.5em}{}
+
+
+%%% titlepage
+\makeatletter
+\renewcommand{\maketitle}{
+
+  \begin{titlepage}
+
+    \thispagestyle{empty}
+
+    \centerline{САНКТ-ПЕТЕРБУРГСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ}
+    \centerline{Направление «Филология»}
+    \centerline{Образовательная программа «Отечественная филология (Русский язык и литература)»}
+
+    \vfill
+
+    \begin{center}
+      {\large\textbf\@title}
+
+      % \vspace{1em}
+
+      % Работу выполнила: студентка III курса
+
+      % {Матуа Ирма Отариевна}
+    \end{center}
+
+    \vfill
+
+    \hfill Курсовая работа
+
+    \hfill студентки III курса 
+
+    \hfill Матуа Ирмы Отраиевны
+
+    \vspace{2cm}
+
+    \hfill Научный руководитель:
+
+    \hfill кандидат филологических наук
+
+    \hfill доцент Светала Вадимовна Вяткина
+
+    \vfill
+
+    \centerline{\small{Санкт-Петербург}} 
+    \centerline{\small\@date}
+
+    \clearpage
+
+  \end{titlepage}
+}
+\makeatother

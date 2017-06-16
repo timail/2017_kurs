@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  15 JUN 2017 13:38
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  16 JUN 2017 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -692,7 +692,87 @@ Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
 \titlewidth=\dimen185
 \titlewidthlast=\dimen186
 \titlewidthfirst=\dimen187
-))
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
+File: block.tss 2016/03/15
+)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126       Р
+              аботу выполнила: студентка III курса
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128       {М
+               атуа Ирма Отариевна}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129     \end{center}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.129     \end{center}
+                      
+Things are pretty mixed up, but I think the worst is over.
+
+LaTeX Font Info:    Font shape `EU1/TimesNewRoman(0)/m/sl' in size <14.4> not a
+vailable
+(Font)              Font shape `EU1/TimesNewRoman(0)/m/it' tried instead on inp
+ut line 145.
+[1
+
+]
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147   \end{titlepage}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.147   \end{titlepage}
+                       
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+l.148 }
+       
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+)
 ! Emergency stop.
 <*> /home/tim/code/tex/irm/tex_project/kursa4.cls
                                                  
@@ -700,11 +780,11 @@ Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
 
  
 Here is how much of TeX's memory you used:
- 23520 strings out of 493638
- 416607 string characters out of 6146796
+ 23533 strings out of 493638
+ 416989 string characters out of 6146796
  443861 words of memory out of 5000000
- 26773 multiletter control sequences out of 15000+600000
- 4394 words of font info for 28 fonts, out of 8000000 for 9000
+ 26778 multiletter control sequences out of 15000+600000
+ 4410 words of font info for 30 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 55i,0n,61p,10410b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+ 55i,5n,61p,10410b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on /home/tim/code/tex/irm/tex_project/kursa4.pdf (1 page).
