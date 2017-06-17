@@ -24,6 +24,10 @@
 \RequirePackage{graphicx}
 \RequirePackage[figurename=Иллюстрация]{caption}
 \renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\thetable}{\arabic{table}}
+
+
+% \captionsetup{figurewithin=none}
 
 
 \makeatletter

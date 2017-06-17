@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  17 JUN 2017 22:41
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  17 JUN 2017 23:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -679,7 +679,9 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layouthoffset=\dimen181
 \Gm@layoutvoffset=\dimen182
 \Gm@dimlist=\toks25
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+)
+\c@saveenum=\count153
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
 \ttl@box=\box49
 \beforetitleunit=\skip58
@@ -700,10 +702,10 @@ File: block.tss 2016/03/15
 
  
 Here is how much of TeX's memory you used:
- 23501 strings out of 493638
- 416310 string characters out of 6146796
- 442513 words of memory out of 5000000
- 26753 multiletter control sequences out of 15000+600000
+ 23506 strings out of 493638
+ 416364 string characters out of 6146796
+ 442530 words of memory out of 5000000
+ 26758 multiletter control sequences out of 15000+600000
  4394 words of font info for 28 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  55i,0n,61p,10410b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
