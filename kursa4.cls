@@ -85,13 +85,7 @@
     \vfill
 
     \begin{center}
-      {\large\textbf\@title}
-
-      % \vspace{1em}
-
-      % Работу выполнила: студентка III курса
-
-      % {Матуа Ирма Отариевна}
+      \large\textbf\@title
     \end{center}
 
     \vfill
