@@ -1,14 +1,9 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{kursa4} % будет по-нормальному, но потом
+\ProvidesClass{kursa4}
 
-
-% This file was converted to LaTeX by Writer2LaTeX ver. 1.0.2
-% see http://writer2latex.sourceforge.net for more info
 \LoadClass
   [14pt,a4paper, oneside]
   {extbook}
-
-% \RequirePackage{polyglossia}\setmainlanguage{russian}
 
 
 \RequirePackage{xltxtra}
@@ -24,31 +19,17 @@
 \RequirePackage{supertabular}
 \RequirePackage{hhline}
 \RequirePackage{hyperref}
-% \hypersetup{colorlinks=false, linkcolor=blue, citecolor=blue, filecolor=blue, urlcolor=blue}
+
 
 \RequirePackage{graphicx}
 \RequirePackage[figurename=Иллюстрация]{caption}
 \renewcommand{\thefigure}{\arabic{figure}}
 
 
-% \RequirePackage{caption}
-% \renewcommand{\thecaptionof}{table}{\arabic{table}}
-
-
 \makeatletter
 \newcommand\arraybslash{\let\\\@arraycr} % ???
 \makeatother
 
-% Page layout (geometry)
-% \setlength\voffset{-1in}
-% \setlength\hoffset{-1in}
-% \setlength\topmargin{2cm}
-% \setlength\oddsidemargin{2cm}
-% \setlength\textheight{24.777668cm}
-% \setlength\textwidth{17.001cm}
-% \setlength\footskip{26.144882pt}
-% \setlength\headheight{0cm}
-% \setlength\headsep{0cm}
 
 \RequirePackage{geometry}
 \geometry{left=3cm}
@@ -56,24 +37,8 @@
 \geometry{top=2.4cm}
 \geometry{bottom=2.4cm}
 
-\input{list_styles.tex} % ,будет, всё будет
-
-% Footnote rule
-% \setlength{\skip\footins}{0.119cm}
-% \renewcommand\footnoterule{\vspace*{-0.018cm}\setlength\leftskip{0pt}\setlength\rightskip{0pt plus 1fil}\noindent\textcolor{black}{\rule{0.0\columnwidth}{0.018cm}}\vspace*{0.101cm}}
-
-% Pages styles
-% \makeatletter
-% \newcommand\ps@Standard{
-%   \renewcommand\@oddhead{}
-%   \renewcommand\@evenhead{}
-%   \renewcommand\@oddfoot{}
-%   \renewcommand\@evenfoot{\@oddfoot}
-%   \renewcommand\thepage{\arabic{page}}
-% }
-% \makeatother
-
-% \pagestyle{Standard}
+% \input{list_styles.tex} % ,будет, всё будет
+\newcounter{saveenum}
 
 \setlength\tabcolsep{1mm} % расстояния между столбцами? таблиц
 
@@ -85,17 +50,9 @@
 \makeatother
 
 
+%%% главы вне нумерации
 \newcommand{\chapteroid}[1]{\chapter*{#1} \addcontentsline{toc}{chapter}{#1}}
 
-
-\makeatletter
-\renewcommand\tableofcontents{%
-    \section*{\centering\contentsname
-        \@mkboth{%
-           \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}
-    \@starttoc{toc}%
-}
-\makeatother
 
 
 %%% title format
@@ -159,3 +116,26 @@
   \end{titlepage}
 }
 \makeatother
+
+
+%% Оглавление
+  %%%
+  \setcounter{tocdepth}{2}
+  \renewcommand\contentsname{Оглавление}
+      
+  \makeatletter
+  \renewcommand\tableofcontents{%
+      \thispagestyle{empty}
+      \section*{\centering\contentsname
+          \@mkboth{%
+             \MakeUppercase\contentsname}{\MakeUppercase\contentsname}}
+      \@starttoc{toc}%
+  }
+  \makeatother
+
+  
+  % \newcommand\oldtoc{}
+  % \let\oldtoc\tableofcontents
+  % \renewcommand\tableofcontents{
+  % %   \oldtoc
+  % % }

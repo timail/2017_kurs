@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  15 JUN 2017 13:39
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.5.23)  17 JUN 2017 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2652,6 +2652,36 @@ Missing character: There is no у in font nullfont!
 Missing character: There is no р in font nullfont!
 Missing character: There is no с in font nullfont!
 Missing character: There is no : in font nullfont!
+
+Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--33
+\OT1/cmr/m/it/10 .
+ []
+
+
+Overfull \hbox (6.1333pt too wide) in paragraph at lines 33--33
+\OT1/cmr/m/it/10 .,
+ []
+
+
+Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--33
+\OT1/cmr/m/it/10 .
+ []
+
+
+Overfull \hbox (6.1333pt too wide) in paragraph at lines 33--33
+\OT1/cmr/m/it/10 .,
+ []
+
+
+Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--33
+\OT1/cmr/m/it/10 .
+ []
+
+
+Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--33
+\OT1/cmr/m/it/10 .
+ []
+
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -2697,36 +2727,6 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no l in font nullfont!
-
-Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/it/10 .
- []
-
-
-Overfull \hbox (6.1333pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/it/10 .,
- []
-
-
-Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/it/10 .
- []
-
-
-Overfull \hbox (6.1333pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/it/10 .,
- []
-
-
-Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/it/10 .
- []
-
-
-Overfull \hbox (3.06665pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/it/10 .
- []
-
 Missing character: There is no П in font cmti10!
 Missing character: There is no а in font cmti10!
 Missing character: There is no в in font cmti10!
@@ -3215,5 +3215,5 @@ Here is how much of TeX's memory you used:
  3510 multiletter control sequences out of 15000+600000
  3986 words of font info for 15 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 13i,1n,10p,286b,118s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 13i,1n,10p,291b,118s stack positions out of 5000i,500n,10000p,200000b,80000s
 No pages of output.
