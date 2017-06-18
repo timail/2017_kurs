@@ -68,6 +68,7 @@
 \RequirePackage[indentfirst]{titlesec}
 
 \titleformat{\chapter}[block]{\centering\normalfont\large\bfseries}{\chaptertitlename\ \thechapter.}{0.3cm}{}
+\titlespacing{\chapter}{0pt}{0pt}{0.5em}
 
 \titleformat{\section}[block]{\centering\normalfont\bfseries}{\thesection.}{0.5em}{}
 
