@@ -20,4 +20,4 @@
 \contentsline {chapter}{Список использованной литературы}{56}{chapter*.3}
 \contentsline {chapter}{Приложение}{61}{chapter*.4}
 \contentsline {section}{Примеры стенограмм}{61}{section*.5}
-\contentsline {section}{Графики и таблицы}{65}{section*.5}
+\contentsline {section}{Графики и таблицы}{66}{section*.5}

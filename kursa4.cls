@@ -44,7 +44,7 @@
 % \input{list_styles.tex} % ,будет, всё будет
 \newcounter{saveenum}
 
-\setlength\tabcolsep{1mm} % расстояния между столбцами? таблиц
+\setlength\tabcolsep{2mm} % расстояния между столбцами? таблиц
 
 \renewcommand\arraystretch{1.3} % "полуторный интервал"
 
@@ -60,7 +60,7 @@
 \newcommand{\chapteroid}[1]{\chapter*{#1} \addcontentsline{toc}{chapter}{#1}}
 
 %%% секции в оглавление вне нумерации
-\newcommand{\sectionoid}[1]{\section*{#1} \addcontentsline{toc}{section}{#1}}
+\newcommand{\sectionoid}[1]{\addcontentsline{toc}{section}{#1}}
 
 
 %%% title format
