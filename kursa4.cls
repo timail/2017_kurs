@@ -61,7 +61,7 @@
 
 %%% title format
 
-\RequirePackage{titlesec}
+\RequirePackage[indentfirst]{titlesec}
 
 \titleformat{\chapter}[block]{\centering\normalfont\large\bfseries}{\chaptertitlename\ \thechapter.}{0.3cm}{}
 
