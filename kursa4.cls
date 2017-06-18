@@ -53,6 +53,8 @@
 \renewcommand\thefootnote{\arabic{footnote}}
 \makeatother
 
+\interfootnotelinepenalty=10000 %%% шоб не переносил сноски
+
 
 %%% главы вне нумерации
 \newcommand{\chapteroid}[1]{\chapter*{#1} \addcontentsline{toc}{chapter}{#1}}
