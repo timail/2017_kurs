@@ -1,0 +1,27 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Оглавление}}{2}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-2}{Введение}}{3}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-3}{}{Введение}}{3}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-4}{Особенности стенограммы и синтаксические способы их имитации в художественном тексте.}}{12}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-40002}{QQ2-1-5}{Практическая часть}}{38}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-50002}{QQ2-1-6}{Синтагматически связанные средства осложнения предложения}}{44}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-7}{Синтагматически не связанные средства осложнения предложения}}{46}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-70002}{QQ2-1-8}{Заключение}}{62}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-9}{}{Заключение}}{62}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-80002}{QQ2-1-10}{Список использованной литературы}}{66}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-11}{}{Список использованной литературы}}{66}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{Q1-1-12}{}{subsectionИсточники}}{66}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{Q1-1-13}{}{Научная литература}}{67}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-90002}{QQ2-1-14}{Приложение}}{74}\relax 
+\doTocEntry\tocchapter{}{\csname a:TocLink\endcsname{1}{Q1-1-15}{}{Приложение}}{74}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-16}{}{Примеры стенограмм}}{74}\relax 
+\doTocEntry\tocsection{}{\csname a:TocLink\endcsname{1}{Q1-1-17}{}{Графики и таблицы}}{79}\relax 
+\doTocEntry\toclot{1}{\csname a:TocLink\endcsname{1}{x1-90031}{}{\ignorespaces Опера}}{table}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-90041}{}{\ignorespaces Опера}}{figure}\relax 
+\doTocEntry\toclot{2}{\csname a:TocLink\endcsname{1}{x1-90052}{}{\ignorespaces Идиот}}{table}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{1}{x1-90062}{}{\ignorespaces Идиот}}{figure}\relax 
+\doTocEntry\toclot{3}{\csname a:TocLink\endcsname{1}{x1-90073}{}{\ignorespaces Обломов (преобладание реплик)}}{table}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{1}{x1-90083}{}{\ignorespaces Обломов (преобладание реплик)}}{figure}\relax 
+\doTocEntry\toclot{4}{\csname a:TocLink\endcsname{1}{x1-90094}{}{\ignorespaces Сон Обломова}}{table}\relax 
+\doTocEntry\toclof{4}{\csname a:TocLink\endcsname{1}{x1-90104}{}{\ignorespaces Сон Обломова}}{figure}\relax 
+\par 
