@@ -57,6 +57,8 @@
 %%% главы вне нумерации
 \newcommand{\chapteroid}[1]{\chapter*{#1} \addcontentsline{toc}{chapter}{#1}}
 
+%%% секции в оглавление вне нумерации
+\newcommand{\sectionoid}[1]{\section*{#1} \addcontentsline{toc}{section}{#1}}
 
 
 %%% title format
